@@ -38,8 +38,14 @@ VESTN (RWA)
 - Reviewing and providing feedback on pull requests.
 - Engaging with the community through issue comments and discussions.
 - Engaging with the community through the provision of real life updates of similar projects or in relation to the project in question.
+- Respond Promptly & Proactively: Be present in the community, answer questions quickly, and address concerns to show care & dedication. 
+Host Interactive Events: Run contests, AMAs (Ask Me Anythings), or polls to encourage participation and build excitement.
+Empower Community Leaders:Identify enthusiastic members and give them roles to help manage the community and create a sense of belonging. 
+Utilize Polls & Surveys: Get feedback from your community to understand their needs and preferences.
+
 
 # Get in Touch
 - Medium : [Aremu shinigami]
 (https://medium.com/@aremushinigami)
 - Twitter: [@northern_aremu](https://twitter.com/northern_aremu)
+- Gmail : raheemguchi@gmail.com
