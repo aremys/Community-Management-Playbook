@@ -14,6 +14,14 @@ Project Nobody (NFTs)
 Infinite Sprouts (AgriFi)
 Jalapeño Finance (Volatility Farming)
 VESTN (RWA)
+# Community Resources
+- [Community Guidelines](https://github.com/aremys/GUIDELINES-AND-BEST-PRACTICES-FOR-COMMUNITY-MANAGERS.): A repository containing guidelines and best practices for community managers.
+- [Bug Report Template](https://github.com/aremys/BUG-REPORT-TEMPLATE-): Template for reporting bugs in community projects.
+- [Feature Request Template](): Template for suggesting new features or improvements.
+
+### Contributions
+- Reported and helped resolve [issue #123](https://github.com/example/project/issues/123) in Project X.
+- Contributed documentation updates to [Project Y](https://github.com/example/project-y).
 
 
 # Skills
