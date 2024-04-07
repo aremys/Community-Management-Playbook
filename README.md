@@ -20,7 +20,8 @@ VESTN (RWA)
 - [Feature Request Template](): Template for suggesting new features or improvements.
 
 ### Contributions
-- Reported and helped resolve Conflict (https://github.com/example/project/issues/123) in Project X.
+- Twitter Contents for visibility. [Several projects] (https://github.com/aremys/Content-Creation-Samples)
+  
 - Contributed documentation updates to [Project Nobody](https://github.com/aremys/CONTRIBUTED-DOCUMENTATION-UPDATE-TO-PROJECT-NOBODY).
 
 
