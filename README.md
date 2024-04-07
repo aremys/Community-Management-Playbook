@@ -41,5 +41,5 @@ VESTN (RWA)
 
 # Get in Touch
 - Medium : [Aremu shinigami]
-(medium.com/@aremushinigami)
+(https://medium.com/@aremushinigami)
 - Twitter: [@northern_aremu](https://twitter.com/northern_aremu)
